@@ -17,16 +17,11 @@
 
 ## Connect With Me 👀
 
-<a href="https://github.com/hth125192" target="blank"><img align="center" src="https://img.shields.io/badge/-Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0ng-1C1C1C?logo=github&logoColor=white" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Subcribe-FF0000?logo=youtube&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/16352173/myzone197" target="blank"><img align="center" src="https://img.shields.io/badge/-myzone197-F67A00?logo=stackoverflow&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/hth125192" target="blank"><img align="center" src="https://img.shields.io/badge/-Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0ng-006400?logo=hackerrank&logoColor=white" /></a>
-<a href="https://gitlab.com/hth125192" target="blank"><img align="center" src="https://img.shields.io/badge/-Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0ng-FF9900?logo=gitlab&logoColor=white" /></a>
-<a href="https://mail.google.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-20021370%20Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0ng-FCCC63?logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/JenniferZero" target="blank"><img align="center" src="https://img.shields.io/badge/-JenniferZero-1C1C1C?logo=github&logoColor=white" /></a>
+<a href="https://mail.google.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Nguyen Thang-FCCC63?logo=gmail&logoColor=white" /></a>
 
-<a href="https://fb.com/hungmyzone197" target="blank"><img align="center" src="https://img.shields.io/badge/-Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0ng-4267b2?logo=facebook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/hungmyzone197/" target="blank"><img align="center" src="https://img.shields.io/badge/-H%C6%B0ng%20Nguy%E1%BB%85n%20V%C4%83n-0077B5?logo=linkedin&logoColor=white" /></a>
-<a href="https://m.me/hungmyzone197" target="blank"><img align="center" src="https://img.shields.io/badge/-Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0ng-BF3EFF?logo=messenger&logoColor=white" /></a>
+<a href="https://fb.com/JusstZero" target="blank"><img align="center" src="https://img.shields.io/badge/-Nguyen Thang-4267b2?logo=facebook&logoColor=white" /></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Nguyen Thang-BF3EFF?logo=messenger&logoColor=white" /></a>
 <a href="https://www.instagram.com/myzone197/" target="blank"><img align="center" src="https://img.shields.io/badge/-myzone197-BC2A8D?logo=instagram&logoColor=white" /></a>
 <a href="https://chat.zalo.me/" target="blank"><img align="center" src="https://img.shields.io/badge/-Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0ng-0A68FE?logo=zalo&logoColor=white" /></a>
 <a href="https://discord.com/#7595" target="blank"><img align="center" src="https://img.shields.io/badge/-HTH-436EEE?logo=discord&logoColor=white" /></a>
