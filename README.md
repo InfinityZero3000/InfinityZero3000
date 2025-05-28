@@ -61,7 +61,7 @@
     <strong>Tech Stack:</strong> Nest.js, React, Python, TypeScript, JavaScript
   </p>
   <p>
-    <a href="[https://github.com/JenniferZero/Customer-emotion-recognition]" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/JenniferZero/Customer-emotion-recognition" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github"></a>
     </p>
 </details>
 <br>
@@ -75,7 +75,7 @@
     <strong>Tech Stack:</strong> Python, React
   </p>
   <p>
-    <a href="[https://github.com/JenniferZero/Spam-email-classify target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/JenniferZero/Spam-email-classify" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github"></a>
     </p>
 </details>
 <br>
