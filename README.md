@@ -33,7 +33,7 @@
 
 ## 🛠️ My Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,java,js,nodejs,nestjs,react,ts,python,cs,cpp" />
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma,docker" />
