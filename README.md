@@ -66,19 +66,6 @@
 </details>
 <br>
 
-<details>
-  <summary><strong>🌟 Spam-email-classify: </strong> - the process of automatically identifying and categorizing emails as unsolicited junk (spam) or legitimate messages.</summary>
-  <br>
-  <p align="center">
-    </p>
-  <p>
-    <strong>Tech Stack:</strong> Python, React
-  </p>
-  <p>
-    <a href="https://github.com/JenniferZero/Spam-email-classify" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github"></a>
-    </p>
-</details>
-<br>
 
 <p align="center">
   <a href="https://github.com/JenniferZero?tab=repositories">➡️ View All My Repositories</a>
