@@ -2,37 +2,27 @@
   Welcome to Zero's Profile! 
   <img src="https://github.com/user-attachments/assets/2c2a726d-cd8a-4515-b761-352e7b54b487" width="32" alt="Waving hand">
 </h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=%E2%8C%A8+Hello+World!+I'm+Thang+aka+Zero+%F0%9F%98%8E;%E2%8C%A8+A+passionate+developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;%E2%8C%A8+Currently+studying+at+HUIT+University;%E2%8C%A8+Love+to+explore+new+technologies;%E2%8C%A8+Let's+connect!&center=true&width=800&height=50&color=009900&vCenter=true&size=22">
-</p>
-
-<p align="center">
-  <a href="https://fb.com/zerone2077">
-    <img src="https://github.com/user-attachments/assets/e873136d-afbe-4f0a-9cba-59006461dc3a" alt="Zero's Avatar"  style="border-radius:50%;">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=%E2%8C%A8+Hello+guys!+I'm+Thang+aka+Zero;A+passionate+developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;%E2%8C%A8+Currently+studying+at+HUIT+University;%E2%8C%A8+Love+to+explore+new+technologies;%E2%8C%A8+Let's+connect!&center=true&width=800&height=50&color=009900&vCenter=true&size=22">
 </p>
 
 ## About Me
 
 <p align="left">
-  Hi, I'm <strong>Thắng</strong>, my full name is <strong>Nguyễn Hữu Thắng</strong>. I'm a student at Ho Chi Minh City University of Industry and Trade (HUIT), currently diving deep into the world of software development.
+  Hi, I'm <strong>Thang</strong>, my full name is <strong>Nguyen Huu Thang</strong>. I'm a student at Ho Chi Minh City University of Industry and Trade (HUIT), currently diving deep into the world of software development.
 </p>
 
 -  I'm currently studying **Information Technology** at **HUIT**.
--  I’m currently learning **ReactJS, NodeJS, NestJS, SQL, Python for AI,...**.
 -  I’m looking to collaborate on **open-source projects, web development projects, training model data**.
 -  I’m looking for help with **advanced Docker concepts, machine learning algorithms**.
 -  How to reach me:  [**nhthang312@gmail.com**](mailto:nhthang312@gmail.com) 
--  Pronouns: He/Him
 
-
-## My Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,java,js,nodejs,nestjs,react,ts,python,cs,cpp" />
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma,docker" />
+    <img src="https://skillicons.dev/icons?i=,mysql,mongodb,git,github,vscode,figma,docker" />
     </a>
 </p>
 
@@ -43,7 +33,7 @@
 -  **Cloud/DevOps:** Docker
 
 
-## My Projects
+## Projects
 
 <p align="center">Here are some of the projects I've worked on. More details in their respective repositories!</p>
 
@@ -69,10 +59,10 @@
 
 ## GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JenniferZero&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="JenniferZero's GitHub Stats" />
-  <br/>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferZero&langs_count=10&layout=compact&theme=chartreuse-dark&hide_border=true" alt="JenniferZero's Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JenniferZero&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="JenniferZero's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JenniferZero&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
   <br/>
