@@ -53,7 +53,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/JenniferZero?tab=repositories">View All My Repositories</a>
+  <a href="https://github.com/JenniferZero?tab=repositories">ALL REPOSITORIES</a>
 </p>
 
 
