@@ -61,12 +61,13 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferZero&langs_count=10&layout=compact&theme=chartreuse-dark&hide_border=true" alt="JenniferZero's Top Languages" />
-  <br/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=JenniferZero&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="JenniferZero's GitHub Stats" />
   <br/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JenniferZero&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
   <br/>
-  </p>
+</p>
 
 ---
 
