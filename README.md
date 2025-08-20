@@ -46,28 +46,28 @@
     <strong>Tech Stack:</strong> Nest.js, React, Python, TypeScript, JavaScript
   </p>
   <p>
-    <a href="https://github.com/JenniferZero/Customer-emotion-recognition" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/InfinityZero3000/Customer-emotion-recognition" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github"></a>
     </p>
 </details>
 <br>
 
 
 <p align="center">
-  <a href="https://github.com/JenniferZero?tab=repositories">ALL REPOSITORIES</a>
+  <a href="https://github.com/InfinityZero3000?tab=repositories">ALL REPOSITORIES</a>
 </p>
 
 
 ## GitHub Stats & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferZero&langs_count=10&layout=compact&theme=chartreuse-dark&hide_border=true" alt="JenniferZero's Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JenniferZero&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="JenniferZero's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityZero3000&langs_count=10&layout=compact&theme=chartreuse-dark&hide_border=true" alt="InfinityZero3000's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InfinityZero3000&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="InfinityZero3000's GitHub Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JenniferZero&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views Count" />
+  <img src="https://komarev.com/ghpvc/?username=InfinityZero3000&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views Count" />
 </p>
 
 <p align="center">
