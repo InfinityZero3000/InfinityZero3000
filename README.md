@@ -21,14 +21,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,nodejs,nestjs,react,ts,python,cs,cpp" />
-    <img src="https://skillicons.dev/icons?i=,mysql,mongodb,git,github,vscode,figma,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,nestjs,react,ts,python,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=flask,postgres,mongodb,supabase,git,github,figma,prisma,docker,vercel" />
     </a>
 </p>
 
--  **Languages:** HTML, CSS, JavaScript, Java, Python, C, C++, C#, SQL, TypeScript,
+-  **Languages:** HTML, CSS, JavaScript, Python, C, C++, C#, SQL, TypeScript,
 -  **Frameworks/Libraries:** Node.js, Nest.js, React
--  **Databases:** MySQL, MongoDB
+-  **Databases:** PostgreSQL, MongoDB, SQL Server
 -  **Tools:** Git, GitHub, VS Code, Figma
 -  **Cloud/DevOps:** Docker
 
