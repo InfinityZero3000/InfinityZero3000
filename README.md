@@ -69,7 +69,9 @@
 
 </div>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=InfinityZero3000&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views Count" />
+</p>
 
 <p align="center">
   <em>Thank you for visiting my profile! Feel free to connect. Let's build something amazing together!</em>
