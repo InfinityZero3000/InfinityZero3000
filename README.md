@@ -49,6 +49,19 @@
     <a href="https://github.com/InfinityZero3000/Customer-emotion-recognition" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github"></a>
     </p>
 </details>
+
+<details>
+  <summary><strong> John Henry Fashion: </strong> -  Web programming course project. Clone and upgrade features.</summary>
+  <br>
+  <p align="center">
+    </p>
+  <p>
+    <strong>Tech Stack:</strong> ASP .NET Core 9.0, Bootstrap, PostgreSQL, Redis, JQuery
+  </p>
+  <p>
+    <a href="https://github.com/InfinityZero3000/John-Henry-Fashion" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github"></a>
+    </p>
+</details>
 <br>
 
 
