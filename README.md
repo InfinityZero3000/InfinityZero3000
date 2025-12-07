@@ -21,16 +21,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,nestjs,react,ts,python,cs,cpp" />
-    <img src="https://skillicons.dev/icons?i=flask,postgres,mongodb,supabase,git,github,figma,prisma,docker,vercel" />
+    <img src="https://skillicons.dev/icons?i=dotnet,fastapi,react,nodejs,nestjs,nextjs,threejs,vite,pytorch,opencv" />
+    <img src="https://skillicons.dev/icons?i=,sqlite,postgres,supabase,prisma,git,firebase,vercel,docker,githubactions,gcp" />
     </a>
 </p>
 
--  **Languages:** HTML, CSS, JavaScript, Python, C, C++, C#, SQL, TypeScript,
+-  **Languages:** HTML, CSS, JavaScript, Python, C, C++, C#, SQL, TypeScript
 -  **Frameworks/Libraries:** Node.js, Nest.js, React
 -  **Databases:** PostgreSQL, MongoDB, SQL Server
 -  **Tools:** Git, GitHub, VS Code, Figma
--  **Cloud/DevOps:** Docker
+-  **Cloud/DevOps:** Docker, Google Console
 
 
 ## Projects
@@ -59,16 +59,17 @@
 
 ## GitHub Stats & Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityZero3000&langs_count=10&layout=compact&theme=chartreuse-dark&hide_border=true" alt="InfinityZero3000's Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=InfinityZero3000&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="InfinityZero3000's GitHub Stats" />
-</p>
+<div align="center">
 
----
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=InfinityZero3000&theme=tokyonight&hide_border=true" height="170" alt="streak graph" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=InfinityZero3000&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views Count" />
-</p>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfinityZero3000&theme=tokyo-night&hide_border=true&area=true" height="250" alt="activity graph" />
+
+</div>
+
+
 
 <p align="center">
   <em>Thank you for visiting my profile! Feel free to connect. Let's build something amazing together!</em>
