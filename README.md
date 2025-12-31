@@ -13,23 +13,16 @@
 </p>
 
 -  I'm currently studying **Information Technology** at **HUIT**.
--  I’m looking to collaborate on **open-source projects, web development projects, training model data**.
+-  I’m looking to collaborate on **open-source projects, web development projects**.
 -  I’m looking for help with **advanced Docker concepts, machine learning algorithms**.
 -  How to reach me:  [**nhthang312@gmail.com**](mailto:nhthang312@gmail.com) 
 
 ## Tech Stack & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,fastapi,react,nodejs,nestjs,nextjs,threejs,vite,pytorch,opencv" />
-    <img src="https://skillicons.dev/icons?i=,sqlite,postgres,supabase,prisma,git,firebase,vercel,docker,githubactions,gcp" />
-    </a>
-</p>
-
--  **Languages:** HTML, CSS, JavaScript, Python, C, C++, C#, SQL, TypeScript
--  **Frameworks/Libraries:** Node.js, Nest.js, React
--  **Databases:** PostgreSQL, MongoDB, SQL Server
--  **Tools:** Git, GitHub, VS Code, Figma
+-  **Languages:** HTML, CSS, Python, C, C++, C#, SQL
+-  **Frameworks/Libraries:** Node.js, Nest.js, React, .NET Core
+-  **Databases:** PostgreSQL, SQL Server
+-  **Tools:** Git, GitHub, VS Code, Figma, Postman
 -  **Cloud/DevOps:** Docker, Google Console
 
 
@@ -56,7 +49,7 @@
   <p align="center">
     </p>
   <p>
-    <strong>Tech Stack:</strong> ASP .NET Core 9.0, Bootstrap, PostgreSQL, Redis, JQuery
+    <strong>Tech Stack:</strong> ASP.NET Core 9.0, Bootstrap, PostgreSQL, Redis, JQuery
   </p>
   <p>
     <a href="https://github.com/InfinityZero3000/John-Henry-Fashion" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github"></a>
