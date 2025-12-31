@@ -31,19 +31,6 @@
 <p align="center">Here are some of the projects I've worked on. More details in their respective repositories!</p>
 
 <details>
-  <summary><strong> Customer-emotion-recognition: </strong> -  technology that helps businesses automatically understand customer feelings.</summary>
-  <br>
-  <p align="center">
-    </p>
-  <p>
-    <strong>Tech Stack:</strong> Nest.js, React, Python, TypeScript, JavaScript
-  </p>
-  <p>
-    <a href="https://github.com/InfinityZero3000/Customer-emotion-recognition" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github"></a>
-    </p>
-</details>
-
-<details>
   <summary><strong> John Henry Fashion: </strong> -  Web programming course project. Clone and upgrade features.</summary>
   <br>
   <p align="center">
@@ -67,11 +54,6 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityZero3000&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=InfinityZero3000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfinityZero3000&theme=tokyo-night&hide_border=true&area=true" height="250" alt="activity graph" />
   
