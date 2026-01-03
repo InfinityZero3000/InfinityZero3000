@@ -20,7 +20,7 @@
 ## Tech Stack & Tools
 
 -  **Languages:** HTML, CSS, Python, C, C++, C#, SQL
--  **Frameworks/Libraries:** Node.js, Nest.js, React, .NET Core
+-  **Frameworks/Libraries:** Node.js, Next.js, React, .NET Core
 -  **Databases:** PostgreSQL, SQL Server
 -  **Tools:** Git, GitHub, VS Code, Figma, Postman
 -  **Cloud/DevOps:** Docker, Google Console
