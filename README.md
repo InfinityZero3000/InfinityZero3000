@@ -49,14 +49,6 @@ I am actively looking for internship opportunities where I can contribute, learn
 
 ---
 
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,cpp,c,cs,js,ts,html,css,react,nextjs,nodejs,dotnet,postgres,docker,git,fastapi,firebase,threejs,postman&perline=10" alt="tech stack" />
-</div>
-
----
-
 ## Selected Work
 
 ### Enterprise Network Analytics
