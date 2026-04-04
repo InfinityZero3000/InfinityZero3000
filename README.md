@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/zero-nguyen">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nhpang312@gmail.com">
+  <a href="mailto:nhthang312@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -27,7 +27,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -37,7 +36,17 @@ I enjoy building software that is useful in the real world, not just good enough
 
 I am actively looking for internship opportunities where I can contribute, learn from experienced engineers, and improve through hands-on work.
 
----
+## Tech Stack
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=cpp,cs,java,ts,spring,python,fastapi,react,dotnet&perline=10" 
+  />
+  <br />
+  <img 
+    src="https://skillicons.dev/icons?i=flutter,docker,git,cloudflare,firebase,kafka,mongodb,postgres,threejs&perline=10" 
+  />
+</p>
+
 
 ## Highlights
 
@@ -45,22 +54,7 @@ I am actively looking for internship opportunities where I can contribute, learn
 - Still building familiarity across application code, databases, APIs, and deployment.
 - Learning to think about software structure and how to write code that's easier to maintain.
 - Exploring AI as a product capability, not just a novelty feature.
-- Open to internship and junior opportunities.
-
----
-
-## Selected Work
-
-### Enterprise Network Analytics
-A platform-oriented project for enterprise relationship analysis, ingestion pipelines, graph analytics, and AI-assisted insight generation.
-
-### John Henry Fashion
-A web development project focused on cloning, refining, and extending product features with a stronger engineering mindset.
-
-### What I Like Building
-Projects with a clear purpose that I can finish, learn from, and improve over time.
-
----
+- Open to internship and fresher opportunities.
 
 ## Current Focus
 
@@ -70,7 +64,6 @@ Projects with a clear purpose that I can finish, learn from, and improve over ti
 - Learning how AI and data-driven approaches fit into real products.
 - Improving consistency, code quality, and execution speed.
 
----
 
 ## GitHub Overview
 
@@ -90,19 +83,17 @@ Projects with a clear purpose that I can finish, learn from, and improve over ti
   />
 </div>
 
----
 
 ## Currently Seeking
 
 I'm open to:
 
 - Internship opportunities
-- Junior software engineering roles
+- Software engineering roles
 - Backend or full-stack positions
 - Open-source collaboration
 - Teams building useful products where I can learn while contributing
 
----
 
 ## Contact
 
