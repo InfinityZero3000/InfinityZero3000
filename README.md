@@ -39,7 +39,7 @@ I am actively looking for internship opportunities where I can contribute, learn
 ## Tech Stack
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=cpp,cs,java,ts,spring,python,fastapi,react,dotnet&perline=10" 
+    src="https://skillicons.dev/icons?i=cpp,cs,ts,python,fastapi,react,dotnet&perline=10" 
   />
   <br />
   <img 
